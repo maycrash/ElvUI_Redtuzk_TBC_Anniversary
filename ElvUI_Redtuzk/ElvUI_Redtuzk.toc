@@ -1,0 +1,21 @@
+## Interface: 20505
+## Author: Redtuzk (TBC Anniversary update by Maycrash)
+## Version: 1.6.0
+## Title: |cff87f542Redtuzk|r|cffffffffUI TBC Anniversary|r
+## Notes: Contains profile layouts designed by Redtuzk
+## RequiredDeps: ElvUI
+## DefaultState: enabled
+## X-Tukui-ProjectID: 4
+## X-Tukui-ProjectFolders: ElvUI_Redtuzk
+
+media\load_media.xml
+Core.lua
+ElvUI_Settings.lua
+Details_Settings.lua
+Plater_Settings.lua
+BigWigs_Settings.lua
+RedtuzkAuras.lua
+InstallerData.lua
+media\FPS.lua
+media\Ping.lua
+media\Durability.lua
